@@ -1,6 +1,6 @@
 # language-models-comparison
 
-> Status: üöß WIP / throwaway / abandoned
+> _Status: üöß WIP / throwaway / abandoned_
 
 We review key advances in language modelling over the last ~10 years, leading up to the performance provided by tools like ChatGPT.
 
@@ -8,5 +8,5 @@ We provides Jupyter notebooks to demonstrate and contrast key concepts and capab
 
 ### Contents:
 
-1. [Ì∞ç N-gram language modelling](./notebooks_language-models-comparison.ipynb)
+1. [N-gram language modelling](./notebooks/language-models-comparison.ipynb)
 
