@@ -8,15 +8,15 @@ We provides Jupyter notebooks to demonstrate and contrast key concepts and capab
 
 ## Contents:
 
-1. [**N-gram language modelling**](./notebooks/language-models-comparison.ipynb)
+1. [**N-gram language modelling**](./notebooks/n-gram.ipynb)
 2. TODO: **Recurrent Neural Networks (RNNs)**
     1. Explain how RNNs use a history of previous tokens to predict the next token
     2. Explain the "vanishing gradients" problem, approaches to address it e.g. LSTMs (Long Short-Term Memory) and GRUs (Gated Recurrent Units)
     3. Explain the unsolved limitations of RNNs
-3. TODO...: [**What is a transformer?**](./notebooks/transformers.ipynb)
+3. [**What is a transformer?**](./notebooks/transformers.ipynb)
     1. Compare and contrast with RNNs.
     2. Use a simple example, such as predicting the next word in a sentence, to demonstrate how a transformer works.
-4. TODO: **What is self-attention?**
+4. [**What is self-attention?**](./notebooks/self-attention.ipynb)
     1. Explain that self-attention is based on computing a weighted sum of the input sequence, where the weights are determined by a learned attention mechanism.
     2. Use a diagram to illustrate how self-attention works, showing how the model can "pay attention" to different parts of the input sequence to make a prediction.
 5. TODO: **How does the transformer architecture work?**
