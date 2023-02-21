@@ -13,7 +13,7 @@ We provides Jupyter notebooks to demonstrate and contrast key concepts and capab
     1. Explain how RNNs use a history of previous tokens to predict the next token
     2. Explain the "vanishing gradients" problem, approaches to address it e.g. LSTMs (Long Short-Term Memory) and GRUs (Gated Recurrent Units)
     3. Explain the unsolved limitations of RNNs
-3. TODO: **What is a transformer?**
+3. TODO...: [**What is a transformer?**](./notebooks/transformers.ipynb)
     1. Compare and contrast with RNNs.
     2. Use a simple example, such as predicting the next word in a sentence, to demonstrate how a transformer works.
 4. TODO: **What is self-attention?**
