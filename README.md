@@ -4,7 +4,7 @@
 
 We review key advances in language modelling over the last ~10 years, leading up to the performance provided by tools like ChatGPT.
 
-We provides Jupyter notebooks to demonstrate and contrast key concepts and capabilities.
+We provide Jupyter notebooks to demonstrate and contrast key concepts and capabilities.
 
 ## Contents:
 
